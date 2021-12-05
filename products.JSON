@@ -1,58 +1,50 @@
 [
     {
         "id": 1,
-        "name": "Human Immunodeficiency Virus (HIV)",
-        "badge": "HIV",
-        "description": "HIV (human immunodeficiency virus) is the cause of AIDS (acquired immunodeficiency syndrome). HIV is a type of virus called a retrovirus, which infects humans when it comes in contact with a break in the skin or tissues such as those that line the vagina, anal area, mouth, or eyes.",
-        "img": "https://images.pexels.com/photos/6303695/pexels-photo-6303695.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        "live": "https://girlyshopper.com",
+        "img": "https://i.ibb.co/R4DHr83/Screenshot-from-2021-12-05-16-40-23.png",
+        "img1": "https://i.ibb.co/bH6dJbb/Screenshot-from-2021-12-05-16-47-29.png",
+        "img2": "https://i.ibb.co/kDrSXYD/Screenshot-from-2021-12-05-16-47-25.png",
+        "title": "Girlyshopper.com The Real World E-commerce.",
+        "desc": "Girly Shopper is the complete shopping store only for the girls. Here, everything is just a click away. 100% money back guarantee. 24/7 female customer support.",
+        "technology": "Html, Css, JS, TailwindCSS",
+        "client": "https://girlyshopper.com",
+        "server": "https://girlyshopper.com"
     },
     {
         "id": 2,
-        "name": "Diabetes Mellitus",
-        "badge": "Diabetes",
-        "description": "Diabetes is a chronic condition associated with abnormally high levels of sugar (glucose) in the blood. Insulin produced by the pancreas lowers blood glucose. ",
-        "img": "https://images.pexels.com/photos/1001897/pexels-photo-1001897.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        "live": "https://www.blue40.com.bd/",
+        "img": "https://i.ibb.co/gRJVFRJ/Screenshot-from-2021-12-05-16-50-18.png",
+        "img1": "https://i.ibb.co/wcQk20p/Screenshot-from-2021-12-05-16-50-41.png",
+        "img2": "https://i.ibb.co/sg5gcV9/Screenshot-from-2021-12-05-16-50-29.png",
+        "title": "Blue40 The Full Mens Accesories E-commerce.",
+        "desc": "blue40 is the complete shopping store only for the boys. Here, everything is just a click away. 100% money back guarantee. 24/7 boys customer support.",
+        "technology": "Html, Css, JS, TailwindCSS, SASS",
+        "client": "https://www.blue40.com.bd/",
+        "server": "https://www.blue40.com.bd/"
     },
     {
         "id": 3,
-        "name": "Insulin",
-        "badge": "Diabetes",
-        "description": "The typical insulin pump is attached to a thin plastic tube (an infusion set) that has a soft cannula (or plastic needle) at the end through which insulin passes.",
-        "img": "https://images.pexels.com/photos/6942015/pexels-photo-6942015.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        "live": "http://174.138.20.80:8787/",
+        "img": "https://i.ibb.co/N95mrgT/Screenshot-from-2021-12-05-16-55-13.png",
+        "img1": "https://i.ibb.co/HqNjX9W/Screenshot-from-2021-12-05-16-55-58.png",
+        "img2": "https://i.ibb.co/54rZcGR/Screenshot-from-2021-12-05-16-57-53.png",
+        "title": "Seventech - Leading Computer, Laptop & Gadget Shop in Bangladesh",
+        "desc": "Seventech is the Best Laptop, Computer, Gaming PC, Component, Accessories, and Gadget retail & Online shop in Bangladesh. Seventech offers the Latest Tech.",
+        "technology": "Html, Css, JS, TailwindCSS, SASS",
+        "client": "https://github.com/MRJAHID/SevenTech-Ecommerce-Template",
+        "server": "http://174.138.20.80:8787/"
     },
     {
         "id": 4,
-        "name": "Pneumonia",
-        "badge": "Fever",
-        "description": "Pneumonia is a lung disease characterized by inflammation of the airspaces in the lungs, most commonly due to an infection.",
-        "img": "https://images.pexels.com/photos/3807629/pexels-photo-3807629.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 5,
-        "name": "Liver Cancer",
-        "badge": "Cancer",
-        "description": "Incidence rates of hepatocellular cancer are rising in the United States due to increasing prevalence of cirrhosis caused by chronic hepatitis C and nonalcoholic fatty liver disease.",
-        "img": "https://images.pexels.com/photos/8016908/pexels-photo-8016908.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 6,
-        "badge": "Cough",
-        "name": "Chronic Cough",
-        "description": "Chronic cough is a cough that persists over time. Chronic cough is not a disease in itself, but rather a symptom of an underlying condition.",
-        "img": "https://images.pexels.com/photos/3807629/pexels-photo-3807629.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 7,
-        "name": "Allergy",
-        "badge": "Allergy",
-        "description": "Allergy involves an exaggerated response of the immune system, often to common substances such as foods, furry animal dander, or pollen.",
-        "img": "https://images.pexels.com/photos/8543401/pexels-photo-8543401.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 8,
-        "name": "Migraine",
-        "badge": "Migraine",
-        "description": "Migraine is usually periodic attacks of headaches on one or both sides of the head. Migraines may be accompanied by nausea, vomiting, increased sensitivity light or sound, dizziness, cognitive disturbances, and other symptoms. Treatments include therapies and medication.",
-        "img": "https://images.pexels.com/photos/7034805/pexels-photo-7034805.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        "live": "https://mrjahid.github.io/FreshGrocery-Template/",
+        "img": "https://i.ibb.co/wyFy0dN/Screenshot-from-2021-12-05-17-01-43.png",
+        "img1": "https://i.ibb.co/H437Qcy/Screenshot-from-2021-12-05-17-01-51.png",
+        "img2": "https://i.ibb.co/nRd8HcS/Screenshot-from-2021-12-05-17-02-01.png",
+        "title": "FreshGrocery Home delivery - Online Grocery home delivery",
+        "desc": "Our Fresh Produce Is Sourced Every Morning, You Get the Best from Us. Buy Fresh Food Items, Personal Care, Baby Products and More. Buy Now. Mammy Poko. 1 Hour Delivery. Huggies. Services: Online Grocery Delivery, Redefining Supply Chains, Ridesharing.",
+        "technology": "Html, Css, JS, TailwindCSS, SASS",
+        "client": "https://github.com/MRJAHID/FreshGrocery-Template",
+        "server": "http://174.138.20.80:8787/"
     }
 ]
